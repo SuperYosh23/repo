@@ -7,8 +7,9 @@ Maintainer: superyosh23
 Author: superyosh23
 Section: Multimedia
 Description: YouTube Music client for legacy iOS devices
+Icon: https://superyosh23.github.io/repo/icons/com.legacymusic.app.png
 Filename: debs/com.legacymusic.app_5-5+debug_iphoneos-arm.deb
-Size: 450644
-MD5sum: 1ecf0638f292695167444fd7d2ab2067
-SHA1: 06d16a464e8c097b694606c82a9bda996e097e57
-SHA256: 53556f1c03b5deba495adc0a07da7fc4be278c3db804ac2799408df98760e103
+Size: 450676
+MD5sum: 9f9e42804838e44deabc2fba387a13a0
+SHA1: 345a886a023ab58935377c8451a57ebf6e1d7c96
+SHA256: 75edd3e9a2f08b67b34815b9379b1b1ee82bd159d60b6b020f908d60df49041f
