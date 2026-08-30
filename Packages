@@ -1,5 +1,5 @@
 Package: com.legacymusic.app
-Name: LegacyMusic
+Name: audioNINJA Legacy
 Version: 5-5+debug
 Architecture: iphoneos-arm
 Installed-Size: 1428
@@ -8,7 +8,7 @@ Author: superyosh23
 Section: Multimedia
 Description: YouTube Music client for legacy iOS devices
 Filename: debs/com.legacymusic.app_5-5+debug_iphoneos-arm.deb
-Size: 450668
-MD5sum: ca668edb324639d3d1e540d2e7d40e5e
-SHA1: 56e0a8ab2e1cd3de4123ba56c14034f14bcdb536
-SHA256: affd00fa1bd79875576fbb80557f8cbf29190e0f8de4889c12ee6123e693be69
+Size: 450644
+MD5sum: 1ecf0638f292695167444fd7d2ab2067
+SHA1: 06d16a464e8c097b694606c82a9bda996e097e57
+SHA256: 53556f1c03b5deba495adc0a07da7fc4be278c3db804ac2799408df98760e103
