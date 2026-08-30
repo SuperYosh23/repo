@@ -1,0 +1,14 @@
+Package: com.legacymusic.app
+Name: LegacyMusic
+Version: 5-5+debug
+Architecture: iphoneos-arm
+Installed-Size: 1428
+Maintainer: superyosh23
+Author: superyosh23
+Section: Multimedia
+Description: YouTube Music client for legacy iOS devices
+Filename: debs/com.legacymusic.app_5-5+debug_iphoneos-arm.deb
+Size: 450668
+MD5sum: ca668edb324639d3d1e540d2e7d40e5e
+SHA1: 56e0a8ab2e1cd3de4123ba56c14034f14bcdb536
+SHA256: affd00fa1bd79875576fbb80557f8cbf29190e0f8de4889c12ee6123e693be69
