@@ -1,5 +1,20 @@
 Package: com.legacymusic.app
 Name: audioNINJA Legacy
+Version: 10-9+debug
+Architecture: iphoneos-arm
+Installed-Size: 4832
+Maintainer: superyosh23
+Author: superyosh23
+Section: Multimedia
+Description: YouTube Music client for legacy iOS devices
+Filename: debs/com.legacymusic.app_10-9+debug_iphoneos-arm.deb
+Size: 2338606
+MD5sum: 2b9262b3bb00403bcac0146a19d582c1
+SHA1: bbd5785a4785d7142f43767b8c8ed7ffea3df000
+SHA256: 8e3661aa2af93422842e53e5609f4851e27cc316845071bc9c9b470031934895
+
+Package: com.legacymusic.app
+Name: audioNINJA Legacy
 Version: 7-28+debug
 Architecture: iphoneos-arm
 Installed-Size: 1812
@@ -44,3 +59,18 @@ Size: 725440
 MD5sum: dfd0584b34549df2942d829048a5fd4f
 SHA1: 5de87ec7e5c9850bfb88ef9d7452b7893a21dfa1
 SHA256: 3d69c6c48562e98c76dc6e43715fae4c4ccf105a2cac56097af1f99bd54295f4
+
+Package: com.legacymusic.app.rootless
+Name: audioNINJA Legacy (Rootless)
+Version: 10-9+debug
+Architecture: iphoneos-arm64
+Installed-Size: 3432
+Maintainer: superyosh23
+Author: superyosh23
+Section: Multimedia
+Description: YouTube Music client for legacy iOS devices (rootless jailbreaks, iOS 15+)
+Filename: debs/com.legacymusic.app.rootless_10-9+debug_iphoneos-arm64.deb
+Size: 1876124
+MD5sum: 1cc9a6c7221b8451625c2010962e34df
+SHA1: 71b80f6272a37323ba2d591b8bccce6a52b80d5d
+SHA256: cdbf4e94071e8be052c0f5918e452a3c6b73de30a5350f57f3bb2bc5238e56fb

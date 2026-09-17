@@ -4,22 +4,22 @@ Description: SuperYosh23's iOS packages
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Date: Tue, 15 Sep 2026 18:59:03 UTC
-Valid-Until: Tue, 29 Sep 2026 18:59:03 UTC
+Date: Thu, 17 Sep 2026 23:57:40 UTC
+Valid-Until: Thu, 01 Oct 2026 23:57:40 UTC
 
 MD5Sum:
- b6a56c55c187ad5c59045fec373eb4d6     1581 Packages
- 4907059f092f91dcdc329bbeb52148f1      618 Packages.gz
- cdb5b0302cf9490881bb7aed3038df52      722 Packages.bz2
+ b309442f36c76ce7fb8b1518b4db9d3c     2607 Packages
+ cfb304814c358f4a95ba275d01c7cb48      893 Packages.gz
+ 9cac6b3e0dc92b6e04c0ef03da9502cc     1033 Packages.bz2
 
 SHA1:
- 13979e577b5c6ba94d568b178db965a5eff9f7ac     1581 Packages
- c0ec1f65cb034c08f1542ae1ae9198ee5d9cc936      618 Packages.gz
- e766a19235e064c59cb7053a410ca666898fa03e      722 Packages.bz2
+ 0ef1d5144a690e830e7f83afa31e548aed015f85     2607 Packages
+ c9d75d7c4c3fc4b2d5c1ef4826c80e90953b904f      893 Packages.gz
+ 60dc32fc29b48fdc5886be42eb1ddf34496ee4d7     1033 Packages.bz2
 
 SHA256:
- bcde3d67e38cb6d7a35e19c8c17cab5b9163fdaf8ede3e02c6c8230618318efe     1581 Packages
- 273e0e207ab9e423315e7f827ea2dcbe309839af937781600ae77fe5a6ac7a49      618 Packages.gz
- a5f91341ec36e17efa69a705d308d0d595f9d5d27ccf708970668ed6793ef4c5      722 Packages.bz2
+ 8012cecbf9f9fb8823850ef09fc021e3a20ecc6691115ad621bcdad8930df1e2     2607 Packages
+ 5363da3754808a44871901927570a5c40fdc44e0cc32d1aa601f0d4abbd5ba60      893 Packages.gz
+ c634ad435700007c36d91139c8381e76f7301c932e002df84d34dcfb94d54d3f     1033 Packages.bz2

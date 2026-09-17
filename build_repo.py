@@ -176,7 +176,7 @@ def build_release(packages_data: bytes, packages_gz: bytes, packages_bz2: bytes)
         "Suite: stable",
         "Version: 1.0",
         "Codename: ios",
-        "Architectures: iphoneos-arm arm64",
+        "Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e",
         "Components: main",
         "Date: " + now.strftime("%a, %d %b %Y %H:%M:%S UTC"),
         "Valid-Until: " + (now + timedelta(days=14)).strftime("%a, %d %b %Y %H:%M:%S UTC"),
