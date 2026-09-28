@@ -6,20 +6,20 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Date: Wed, 23 Sep 2026 00:50:30 UTC
-Valid-Until: Wed, 07 Oct 2026 00:50:30 UTC
+Date: Mon, 28 Sep 2026 22:16:06 UTC
+Valid-Until: Mon, 12 Oct 2026 22:16:06 UTC
 
 MD5Sum:
- 9ecf4932c0b67bf5e1500190ba76baed     3088 Packages
- 069590f1f88dfe579b96ca3206c900af     1005 Packages.gz
- 218071f071e7845b7498fc1e6f64278d     1136 Packages.bz2
+ 2307be9c771d004bec0a43ea8296233c     4118 Packages
+ 4205c3058a2cd5c90f413e8db16b6922     1237 Packages.gz
+ 1c4dbd430972d1555b249c5b0c53f256     1339 Packages.bz2
 
 SHA1:
- 9773b436200471736d8f2424a53afbcbb5c80e36     3088 Packages
- dbd2ed79b99641d297db35dcdd5d709d894e910e     1005 Packages.gz
- 3ee82714b3b14fd40873e762c5d81edb0aacd3b1     1136 Packages.bz2
+ d6ba1acbd7f24e5da7b5a5883aaf71df2a63c842     4118 Packages
+ 7cd66a25662538bbf3a7ee37ad1c9924242f9263     1237 Packages.gz
+ 47334ee4f652f9d3264e256298cd0ce56c2f26f3     1339 Packages.bz2
 
 SHA256:
- 1db6d60210184652a61037e3ffbf772188ba9124885eba5c1cc5b0335e23d8bc     3088 Packages
- 892396de65e7d18e79e9b0fb48d0f4928b1b09575340819f3f8583c9e08dbf67     1005 Packages.gz
- 2673ceaea89cb9850d81e7e5ac3bdd561276d90bcff19996fa554f62c9484cce     1136 Packages.bz2
+ 413fc3bff5df10adf6995db30d63f81c4a4383021fbf419ba1faf633afa6157a     4118 Packages
+ a96ad8534cbaece41c1139649f4888e6de4f953248c35ff79dcef00077178380     1237 Packages.gz
+ 7b5e1b6c830cbb4104c8daa29db52c8490b7de4aa3c2fbe592afc1431c1ca7c2     1339 Packages.bz2
