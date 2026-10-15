@@ -149,3 +149,19 @@ Size: 1109396
 MD5sum: dcbfdd47031669fff63c4b66ad5df028
 SHA1: 414acc0f5702b527c543492936e9c2134c16e719
 SHA256: 820730301ed73201f7eb3605c6758ea32569acccbb8f40e30def031296147916
+
+Package: com.superyosh23.veryoriginalblockgame
+Name: VOBG
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0)
+Installed-Size: 480
+Maintainer: superyosh23
+Section: Games
+Description: A very original idea that I came up with myself.
+ yep mhm I did not take inspiration from a certain gameboy game made by a russian dude
+Filename: debs/com.superyosh23.veryoriginalblockgame_1.0_iphoneos-arm.deb
+Size: 261202
+MD5sum: 181f7238994bea88b004309ad1287675
+SHA1: 1dad7ceea91119ca4eb6be360c06135b387e140d
+SHA256: 98721d13b5ebe82e84e7b0f6e536343c0413be11fa866c01bfb4c45a88a9054a
